@@ -1,0 +1,16 @@
+{
+  "name": "Shelter A Pitbull Now",
+  "short_name": "Shelter A Pitbull",
+  "theme_color": "#01575d",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "assets/img/logo-1.png",
+      "sizes": "512x125",
+      "type": "image/png"
+    }
+  ]
+}
