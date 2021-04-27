@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618941082659,
+  "timestamp": 1619548803031,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c7d2cb107a2f465d1a5d.js",
+        "/main.7b1a58b58e012392b2ee.js",
         "/polyfills-es5.cd401f145b6bd965c354.js",
         "/polyfills.378e3418a7fba592146d.js",
         "/runtime.a8ef3a8272419c2e2c66.js",
@@ -521,8 +521,8 @@
     "/assets/vendor/layerslider/skins/v6/skin.css": "ba2ac226ed67c77f906d8f85e3061716589b6b47",
     "/assets/video/pitbulls-with-family.mp4": "45f3262aeff5622c56e8b7bbc145e4f2cd7d3d77",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "b8a92dce348f087fad4b6bcb4d731e3a8b23cc33",
-    "/main.c7d2cb107a2f465d1a5d.js": "e1f7f082a75fad0a122385b5662b1498d2a38232",
+    "/index.html": "7ae03714d8a486a1efe1dc87a7dd9025bc3ca8ac",
+    "/main.7b1a58b58e012392b2ee.js": "669bd2299a9385ddf995204d324f37c4c3f2237d",
     "/polyfills-es5.cd401f145b6bd965c354.js": "c39b707bc6f7870f329b118fd7aa2ad5ced976a7",
     "/polyfills.378e3418a7fba592146d.js": "9184626363d337c09b10a1a74164edbcb4a433e5",
     "/runtime.a8ef3a8272419c2e2c66.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
